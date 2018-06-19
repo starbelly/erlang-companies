@@ -4,11 +4,26 @@
 html {
   body {
     @include font-smoothing(on);
-  }
-  .burger {
-    color: $grey-dark;
-  }
-  .navbar-item{
-    font-size: 1em;
+    .burger {
+      color: $grey-dark;
+    }
+    .navbar-item{
+      font-size: 1em;
+    }
+    .controls {
+      box-sizing: initial !important;
+    }
+    .box {
+      &.use-theme {
+        min-height: 350px;
+        max-height: 350px;
+        overflow: auto;
+        .info {
+          padding: 10px 0px;
+          border-bottom: 1px solid $grey-lighter;
+          border-top: 1px solid $grey-lighter;
+        }
+      }
+    }
   }
 }

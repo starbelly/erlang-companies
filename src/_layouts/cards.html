@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% assign cards = site.data[site.cards.data] | slice: 0, 8 %}
+
+{% include hero-intro.html %}
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <h1 class="title is-3 fancy">Recent releases</h1>
+      {{ content }}
+      <div class="columns is-desktop is-multiline">
+      {% for card in cards %}
+        <div class="column is-one-quarter-desktop">
+          {% include card.html data=card %}
+        </div>
+      {% endfor %}
+      </div> <!-- /columns -->
+    </div> <!-- /content -->
+  </div> <!-- /container -->
+</section>

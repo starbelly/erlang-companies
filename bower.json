@@ -17,6 +17,6 @@
   ],
   "dependencies": {
     "jquery": "^3.2.1",
-    "bulma": "^0.7.1"
+    "bulma": "^0.6.2"
   }
 }
