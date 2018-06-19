@@ -1,0 +1,22 @@
+{
+  "name": "jekyll-bulma-boilerplate",
+  "authors": [
+    "burden <burden@burden.cc>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "",
+  "homepage": "jekyll-bulma-boilerplate.utensils.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/_assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bulma": "^0.7.1"
+  }
+}

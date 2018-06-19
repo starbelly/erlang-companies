@@ -1,0 +1,14 @@
+@import 'bulma/bulma';
+@import 'libs/mixins';
+
+html {
+  body {
+    @include font-smoothing(on);
+  }
+  .burger {
+    color: $grey-dark;
+  }
+  .navbar-item{
+    font-size: 1em;
+  }
+}
