@@ -36,10 +36,10 @@ destination: www
 markdown: kramdown
 
 cards:
-  data: cards    # yaml file in _data (without .yml)
-  categories:
-    name: decades    # name of category (ex: industries)
-    group_by: decade # field in yaml to group by
+  data: films    # yaml file in _data (without .yml)
+  group_by:
+    name: decade   # field in yaml to group by
+    caption: decades   # name of category (ex: industries)
     icon: folder-open
 
 compress_html:

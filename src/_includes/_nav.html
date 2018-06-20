@@ -13,10 +13,10 @@
     <div class="navbar-menu" id="navMain">
       <div class="navbar-start">
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link is-active">{{ site.cards.categories.name | capitalize }}</a>
+          <a class="navbar-link is-active">{{ site.cards.group_by.caption | capitalize }}</a>
           <div id="moreDropdown" class="navbar-dropdown">
             {% for category in site.data['categories'] %}
-            <a class="navbar-item" href="/{{ site.cards.categories.name }}/{{ category['path'] }}"><span class="has-text-weight-bold">{{ category['name'] }}</span></a>
+            <a class="navbar-item" href="/{{ site.cards.group_by.caption }}/{{ category['path'] }}"><span class="has-text-weight-bold">{{ category['name'] }}</span></a>
             {% endfor %}
           </div>
         </div>

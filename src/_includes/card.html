@@ -1,10 +1,10 @@
 <div class="use-theme box">
   <div class="content has-text-centered">
-    <p class="title is-4 thin">{{include['data']['name']}}</p>
+    <p class="title is-4 thin"><a href="/{{ include['data']['slug']}}">{{include['data']['name']}}</a></p>
   </div>
   <div class="content info has-text-left">
     <p class="is-size-7">
-      <span class="icon accent"><i class="far fa-fw fa-{{ site.cards.categories.icon }}"></i></span> <a href="/{{ site.cards.categories.name }}/{{ include['data'][site.cards.categories.group_by] | downcase }}">{{ include['data'][site.cards.categories.group_by]  | truncate: 40 }}</a><br>
+      <span class="icon accent"><i class="far fa-fw fa-{{ site.cards.group_by.icon }}"></i></span> <a href="/{{ site.cards.group_by.caption }}/{{ include['data'][site.cards.group_by.name] | downcase }}">{{ include['data'][site.cards.group_by.name]  | truncate: 40 }}</a><br>
     {% if include['data']['year'] %}
       <span class="icon accent"><i class="far fa-fw fa-calendar"></i></span> {{include['data']['year']}}<br>
     {% endif %}

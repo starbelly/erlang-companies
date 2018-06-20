@@ -1,26 +1,4 @@
 [![Build Status](https://travis-ci.org/burden/jekyll-cards-boilerplate.svg?branch=master)](https://travis-ci.org/burden/jekyll-cards-boilerplate)
-## Cards
-
-Cards can be added to the `_data` folder.
-
-Configure cards in `_config.yml`
-```
-cards:
-  data: cards    # yaml file in _data (without .yml)
-  categories:
-    name: decades    # name of category (ex: industries)
-    group_by: decade # field in yaml to group by
-    icon: folder-open
-
-```
-## Features
-
-- bulma 0.6.2
-- jquery 3.2.1
-- Google Analytics
-- jekyll-assets
-- compress.html
-- html-proofer
 
 ## Dependencies
 
@@ -34,6 +12,34 @@ $ bundle install
 $ bower install
 $ jekyll serve
 ```
+
+## Features
+
+- [Bulma 0.6.2](https://github.com/jgthms/bulma/tree/0.6.2)
+- [jQuery 3.2.1](https://github.com/jquery/jquery/tree/3.2.1)
+- Dependency management: [bower](https://bower.io)
+- Asset pipeline: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)
+  - [JS uglifier](https://rubygems.org/gems/uglifier/versions/3.2.0)
+- HTML compression: [compress.html](http://jch.penibelst.de/)
+- Testing: [html-proofer](https://github.com/gjtorikian/html-proofer)
+- Analytics: [Google Analytics](https://www.google.com/analytics/)
+
+## Cards
+
+Cards should be saved in the `_data` folder.
+
+Configure cards in `_config.yml`
+```
+cards:
+  data: films         # yaml file in _data (without .yml)
+  group_by:
+    name: decade      # field in yaml to group by
+    caption: decades  # name of category (ex: industries)  
+    icon: folder-open
+```
+A page for each card will automatically be generated at `/<cards.data>/<name>.html` (ex: /films/the-room.html)
+
+In addition, all cards will be grouped into category pages located at `/<cards.categories.name>/<value>.html` (ex: /industries/consulting.html)
 
 ## Deploy to Github Pages from Travis
 1. Point Travis to repository
