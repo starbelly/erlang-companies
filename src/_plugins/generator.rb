@@ -1,3 +1,5 @@
+require "json"
+
 class CardGenerator < Jekyll::Generator
   def generate(site)
     data_file = site.config["cards"]["data"] # ex: companies
@@ -22,6 +24,20 @@ class CardGenerator < Jekyll::Generator
       site.pages << build_card_page(site, card)
     end
 
+    site.pages << build_search(site)
+  end
+
+  def build_search(site)
+    json = site.data[site.config["cards"]["data"]].map do |card|
+      {
+        "title" => card["name"],
+        "category" => card[site.config["cards"]["group_by"]["name"]],
+        "url" => card["slug"],
+      }
+    end
+    page = Jekyll::PageWithoutAFile.new(site, site.source, "./", "search.json")
+    page.content = json.to_json
+    page
   end
 
   def build_card_page(site, card)

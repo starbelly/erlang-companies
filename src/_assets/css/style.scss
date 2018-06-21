@@ -25,5 +25,31 @@ html {
         }
       }
     }
+    #search-section {
+      display: none;
+    }
+    .search{
+      background-color: $grey-dark;
+      color: #fff;
+      input[type="text"] {
+        border: 0px;
+        border-bottom: 4px solid #fff;
+        color: #fff;
+        @include placeholder-color(#fff);
+        font-size: 3em;
+      }
+      .search-hide {
+        cursor: pointer !important;
+        pointer-events: auto !important;
+        height: 100% !important;
+      }
+      li {
+        font-size: 1.2em;
+        line-height: 2em;
+      }
+      a{
+        color: #aaa;
+      }
+    }
   }
 }

@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "jquery": "^3.2.1",
-    "bulma": "^0.6.2"
+    "bulma": "^0.6.2",
+    "simple-jekyll-search": "^1.7.0"
   }
 }

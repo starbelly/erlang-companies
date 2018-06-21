@@ -23,6 +23,7 @@ $ jekyll serve
 - HTML compression: [compress.html](http://jch.penibelst.de/)
 - Testing: [html-proofer](https://github.com/gjtorikian/html-proofer)
 - Analytics: [Google Analytics](https://www.google.com/analytics/)
+- Search: [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search/tree/v1.7.0)
 
 ## Cards
 

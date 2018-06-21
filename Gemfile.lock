@@ -65,6 +65,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
+    json (2.1.0)
     kramdown (1.17.0)
     liquid (4.0.0)
     liquid-tag-parser (1.9.0)
@@ -115,6 +116,7 @@ DEPENDENCIES
   html-proofer
   jekyll (~> 3.8.1)
   jekyll-assets
+  json
   kramdown
   rake
   tzinfo-data
