@@ -1,16 +1,15 @@
 <div class="use-theme box">
   <div class="content has-text-centered">
-    <p class="title is-4 thin"><a href="/{{ include['data']['slug']}}">{{include['data']['name']}}</a></p>
+    <p class="title is-4 thin"><a href="{{ include['data']['slug'] }}">{{include['data']['name']}}</a></p>
   </div>
   <div class="content info has-text-left">
     <p class="is-size-7">
-      <span class="icon accent"><i class="far fa-fw fa-{{ site.cards.group_by.icon }}"></i></span> <a href="/{{ site.cards.group_by.caption }}/{{ include['data'][site.cards.group_by.name] | downcase }}">{{ include['data'][site.cards.group_by.name]  | truncate: 40 }}</a><br>
-    {% if include['data']['year'] %}
-      <span class="icon accent"><i class="far fa-fw fa-calendar"></i></span> {{include['data']['year']}}<br>
-    {% endif %}
-    {% if include['data']['url'] %}
-      <span class="icon accent"><i class="fas fa-fw fa-globe"></i></span> <a target="_blank" href="{{include['data']['url']}}">{{include['data']['url'] | replace: "http://", "" | replace: "https://", "" | replace: "www.", ""  | truncate: 40 }}</a><br>
-    {% endif %}
+      <span class="icon accent"><i class="{{ site.cards.group_by.fa-style }} fa-fw fa-{{ site.cards.group_by.fa-icon }}"></i></span> <a href="/{{ site.cards.group_by.caption }}/{{ include['data'][site.cards.group_by.name] | downcase }}">{{ include['data'][site.cards.group_by.name]  | truncate: 40 }}</a><br>
+      {% for item in site.cards.meta %}
+        {% if include['data'][item.name] %}
+         <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> {{ include['data'][item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", ""  | truncate: 40 }}<br>
+        {% endif %}
+      {% endfor %}
     </p>
   </div>
   <div class="content is-size-7 has-text-centered">

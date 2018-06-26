@@ -36,11 +36,23 @@ destination: www
 markdown: kramdown
 
 cards:
-  data: films    # yaml file in _data (without .yml)
+  data: films         # yaml file in _data (without .yml)
+  comments: true
   group_by:
-    name: decade   # field in yaml to group by
-    caption: decades   # name of category (ex: industries)
-    icon: folder-open
+    name: decade      # field in yaml to group by
+    caption: decades  # name of category (ex: industries)
+    fa-icon: folder-open
+    fa-style: far        # valid: fas (solid), far (regular), fal (light), fab (brand)
+  meta:               # use this section to display card info, in addition to 'group_by'
+    - name: year
+      caption: year
+      fa-icon: calendar
+      fa-style: far
+    - name: url
+      caption: www
+      fa-icon: globe
+      fa-style: fas
+
 
 compress_html:
   ignore:
