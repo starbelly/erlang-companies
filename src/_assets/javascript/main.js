@@ -5,7 +5,7 @@ var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
-  searchResultTemplate: '<li><a href="/{url}">{title}<span class="tag is-white is-pulled-right is-hidden-mobile">{category}</span></a></li>',
+  searchResultTemplate: '<li><a href="{url}">{title}<span class="tag is-white is-pulled-right is-hidden-mobile">{category}</span></a></li>',
 })
 $(document).keyup(function(e) {
   if (e.keyCode === 27) $("#search-section").hide("fast");   // esc
