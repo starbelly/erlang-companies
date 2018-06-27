@@ -63,7 +63,7 @@ class CardGenerator < Jekyll::Generator
     page = Jekyll::PageWithoutAFile.new(site, site.source, category_name, "#{category['path']}.md")
     page.data[category_field] = category['name']
     page.data[data] = category[data]
-    page.data['layout'] = 'category'
+    page.data['layout'] = 'cards'
     page
   end
 end
