@@ -8,11 +8,59 @@
 #   location:     # Company location
 #   description:  >-
 #     Company description including a short summary of how Erlang is used in production
-#
-Erlang Companies:
-  industry: Internet
-  url: https://erlang-companies.org
-  blog:
-  github:
-  location:
-  description: "Company description including a short summary of how Erlang is used in production"
+
+AdRoll:
+  industry: E-commerce 
+  url: https://www.adroll.com/
+  blog: https://blog.adroll.com
+  location: San Francisco, CA
+  description: AdRoll use Erlang within the live monitoring of their real-time bidding system. This involves live monitoring everything that could go wrong on a system receiving 500K+ bid requests per second, with a substantial monetary value attached.
+
+Bet365:
+  industry: Online Gambling
+  url: https://www.bet365.com/
+  blog: http://bet365techblog.com/
+  github: https://github.com/bet365
+  location: Stoke-on-Trent, United Kingdom
+  description: Bet365, use Erlang and Elixir to help it service 20 million+ users and to meet the demands of 100,000s of concurrent users at peak times.  
+
+Genetec:
+  industry: Security
+  url:  https://www.genetec.com
+  blog: https://resources.genetec.com/blog
+  github: N/A
+  location: Montréal, Québec, Canada
+  description: IP video surveillance, access control, licence plate recognition, network security appliances
+
+"Goldman Sachs":
+  industry: Financial 
+  url: http://www.goldmansachs.com
+  blog: http://www.goldmansachs.com/careers/blog/
+  github: https://github.com/goldmansachs
+  location: New York City, NY
+  description: Erlang is being used by Goldman Sachs in part of its HF trading platform. The Goldman Sachs platform is a very low latency (microseconds) event-driven market data processing, strategy, and order submission engine.
+
+Grindr:
+  industry: Geosocial networking
+  url: https://www.grindr.com/
+  blog: N/A
+  github: https://github.com/grindrllc
+  location: West Hollywood, CA.
+  description: Erlang is used as part of the system Grindr use to maintain a reliable, top performing and scalable stack for more than 3.2 Million daily active users.
+
+IBM: 
+  industry: Information Technology
+  url: https://www.ibm.com
+  blog: https://www.ibm.com/blogs/bluemix/
+  github: https://github.com/ibm
+  location: Armonk, NY
+  description: Erlang, along with Scala, are used to power Cloudant’s full-text search system. 
+
+WhatsApp:
+  industry: Cross-platform messaging and VoIP Techology
+  url: https://www.whatsapp.com/
+  blog: https://blog.whatsapp.com
+  github: https://github.com/WhatsApp
+  location: Menlo Park, CA
+  description: How do you support 450 million users with only 32 engineers? For WhatsApp, the answer was Erlang. 
+
