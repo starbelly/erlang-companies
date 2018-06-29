@@ -87,3 +87,11 @@ WhatsApp:
   github: https://github.com/WhatsApp
   location: Menlo Park, CA
   description: How do you support 450 million users with only 32 engineers? For WhatsApp, the answer was Erlang.
+
+Klarna:
+  industry: Financial
+  url: https://www.klarna.com/
+  blog: https://knowledge.klarna.com/
+  github: https://github.com/klarna
+  location: Stockholm, Sweden
+  description: Erlang powers the core of Klarna's system serving millions of customers in Europe.
