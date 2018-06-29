@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-{% assign cards = site.data[site.cards.data] | slice: 0, 8 %}
+{% assign cards = site.data[site.cards.data] %}
 {% include hero-intro.html %}
-{% include section-cards.html caption="Recent Releases" cards=cards %}
+{% include section-cards.html caption=page.title cards=cards %}

@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: jekyll-cards-boilerplate
-email: burden@burden.cc
-description: >- # this means to ignore newlines until "baseurl:"
-  A card theme for Jekyll made awesome using Bulma.
+title: Erlang Companies
+email:
+description: "A curated list of companies using Erlang in production, organized by industry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social settings
-github: burden/jekyll-cards-boilerplate
+github: starbelly/erlang-companies
 maintainers:
+  - starbelly
   - burden
-
+  
 # Build settings
 plugins:
   - jekyll-assets
@@ -36,23 +36,26 @@ destination: www
 markdown: kramdown
 
 cards:
-  data: films         # yaml file in _data (without .yml)
-  comments: true
+  data: companies        # yaml file in _data (without .yml)
+  comments: false
   group_by:
-    name: decade      # field in yaml to group by
-    caption: decades  # name of category (ex: industries)
+    name: industry       # field in yaml to group by
+    caption: industries  # name of category (ex: industries)
     fa-icon: folder-open
     fa-style: far        # valid: fas (solid), far (regular), fal (light), fab (brand)
-  meta:               # use this section to display card info, in addition to 'group_by'
-    - name: year
-      caption: year
-      fa-icon: calendar
-      fa-style: far
+  meta:                  # use this section to display card info, in addition to 'group_by'
+    - name: location
+      fa-icon: location-arrow
+      fa-style: fas
     - name: url
-      caption: www
       fa-icon: globe
       fa-style: fas
-
+    - name: blog
+      fa-icon: lightbulb
+      fa-style: fas
+    - name: github
+      fa-icon: github
+      fa-style: fab
 
 compress_html:
   ignore:

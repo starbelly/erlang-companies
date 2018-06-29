@@ -8,7 +8,7 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ site.title }}</title>
-    {% asset style.css %}
+    {% asset erlang.css %}
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     {% if site.analytics-id %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -26,5 +26,6 @@ layout: compress
     {{ content }}
     {% asset main.js %}
     {% include _footer.html %}
+    {% include _logo.svg %}
   </body>
 </html>

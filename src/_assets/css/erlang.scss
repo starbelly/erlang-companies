@@ -1,0 +1,127 @@
+$grey-dark: #3d4449;
+$accent: #d42f2c;
+$primary: darken($accent, 10%);
+$footer-background-color: $accent;
+$text: $grey-dark;
+$text-light: lighten($text, 20%);
+$text-strong: darken($text, 5%);
+$link: darken($accent, 5%);
+$link-visited: lighten($accent, 10%);
+$link-hover: lighten($accent, 20%);
+$link-focus: $link-hover;
+$link-active: $link-hover;
+
+@import 'bulma/bulma';
+@import 'libs/mixins';
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:500,700|Source+Sans+Pro:300,400,600');
+
+html {
+  background-attachment: fixed, fixed;
+  background-image: asset_url("overlay.png"),	asset_url("binding_light.png");
+
+  body {
+    @include font-smoothing(on);
+    .title {
+      font-family: 'Rajdhani', sans-serif;
+      font-weight: 700;
+      &.fancy {
+        padding-bottom: 10px;
+        border-bottom: 5px solid $accent;
+      }
+      &.thin {
+        font-weight: 500;
+      }
+    }
+    .logo-svg {
+      width: 24px;
+      height: 24px;
+      fill: $accent;
+    }
+    .navbar-item {
+      .title {
+        padding-left: 10px;
+      }
+    }
+    .hero {
+      &.is-primary {
+        background: #575f65; /* Old browsers */
+        background: -moz-radial-gradient(center, ellipse cover, #575f65 0%, #3d4449 50%, #1d2124 99%); /* FF3.6-15 */
+        background: -webkit-radial-gradient(center, ellipse cover, #575f65 0%,#3d4449 50%,#1d2124 99%); /* Chrome10-25,Safari5.1-6 */
+        background: radial-gradient(ellipse at center, #575f65 0%,#3d4449 50%,#1d2124 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#575f65', endColorstr='#1d2124',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+        h1{
+          color: #fff !important;
+        }
+      }
+    }
+    .subtitle{
+      font-family: 'Rajdhani', sans-serif;
+    }
+    .burger {
+      color: $grey-dark;
+    }
+    .navbar-item{
+      font-size: 1em;
+    }
+    .controls {
+      box-sizing: initial !important;
+    }
+    .accent {
+      color: $accent;
+    }
+    .box {
+      &.use-theme {
+        min-height: 350px;
+        max-height: 350px;
+        overflow: auto;
+        .info {
+          padding: 10px 0px;
+          border-bottom: 1px solid $grey-lighter;
+          border-top: 1px solid $grey-lighter;
+        }
+      }
+    }
+    #search-section {
+      display: none;
+    }
+    .search{
+      background-color: $accent;
+      color: #fff;
+      input[type="text"] {
+        border: 0px;
+        border-bottom: 4px solid #fff;
+        color: #fff;
+        @include placeholder-color(#fff);
+        font-size: 3em;
+      }
+      .search-hide {
+        cursor: pointer !important;
+        pointer-events: auto !important;
+        height: 100% !important;
+        .fa-stack-2x{
+          color: #ddd !important;
+        }
+        color: #fff !important;
+      }
+      li {
+        font-size: 1.2em;
+        line-height: 2em;
+      }
+      a{
+        color: #eee;
+      }
+    }
+    footer {
+      color: #fff;
+      a {
+        color: #fff;
+        &:hover{
+          color: lighten($accent, 40%);
+        }
+      }
+      strong {
+        color: #fff;
+      }
+    }
+  }
+}
