@@ -51,7 +51,7 @@ Cisco:
 
 Erisata:
   industry: BPMN Automation
-  url: http://erisata.com/en/
+  url: http://erisata.com/en
   github: https://github.com/erisata/
   location: Vilnius, Lithuania
   description: We provide reliable Erlang based BPM, ESB solutions used in telecomunications and utilities sectors.
