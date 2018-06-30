@@ -32,6 +32,22 @@ Cisco:
   location: San Jose, CA
   description: Cisco ships 2 million devices per year which utlize the power of Erlang resulting in 90% of all internet traffic going through Erlang controlled nodes.
 
+"Erlang Solutions":
+  industry: Consultancy
+  url:  https://www.erlang-solutions.com
+  blog: https://www.erlang-solutions.com/blog.html
+  github: https://github.com/esl
+  location: London, United Kingdom
+  description: We build trusted, fault-tolerant systems that can scale to billions of users. Our Erlang & Elixir expertise is the backbone of our clients' operations.
+
+Ericsson:
+  industry: Telecommunications
+  url: https://www.ericsson.com
+  blog: https://www.ericsson.com/research-blog/
+  github: https://github.com/Ericsson
+  location: Stockholm, Sweden
+  description: Ericsson uses Erlang to develop many of its products and an estimated 40 percent of all mobile traffic worldwide is carried over the company’s network solutions.
+
 Genetec:
   industry: Security
   url:  https://www.genetec.com
