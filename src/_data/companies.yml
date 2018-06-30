@@ -36,7 +36,7 @@ Cisco:
 "Erlang Solutions":
   industry: Consultancy
   url:  https://www.erlang-solutions.com/
-  blog: https://www.erlang-solutions.com/blog.html/
+  blog: https://www.erlang-solutions.com/blog.html
   github: https://github.com/esl/
   location: London, United Kingdom
   description: We build trusted, fault-tolerant systems that can scale to billions of users. Our Erlang & Elixir expertise is the backbone of our clients' operations.
