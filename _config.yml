@@ -70,8 +70,10 @@ compress_html:
 assets:
   sources:
   - _assets/vendor
+  - _assets/image
   digest: true
   compression: true
+  image: true
   gzip: false
   defaults:
     js: { integrity: false } # true on JEKYLL_ENV=production
