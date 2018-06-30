@@ -52,7 +52,6 @@ Genetec:
   industry: Security
   url:  https://www.genetec.com
   blog: https://resources.genetec.com/blog
-  github: N/A
   location: Montréal, Québec, Canada
   description: IP video surveillance, access control, licence plate recognition, network security appliances
 
@@ -67,7 +66,6 @@ Genetec:
 Grindr:
   industry: Geosocial networking
   url: https://www.grindr.com
-  blog: N/A
   github: https://github.com/grindrllc
   location: West Hollywood, CA.
   description: Erlang is used as part of the system Grindr uses to maintain a reliable, top performing and scalable stack for more than 3.2 Million daily active users.
