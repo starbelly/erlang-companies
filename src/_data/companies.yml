@@ -17,6 +17,14 @@ AdRoll:
   location: San Francisco, CA
   description: AdRoll uses Erlang within the live monitoring of their real-time bidding system. This involves live monitoring everything that could go wrong on a system receiving 500K+ bid requests per second, with a substantial monetary value attached.
 
+"Altenwald Solutions, S.L.":
+  industry: Consultancy 
+  url: https://altenwald.com/ 
+  blog: https://altenwald.org/
+  github: https://github.com/altenwald/
+  location: Córdoba, Spain 
+  description: Altenwald is a company with wide experience helping others companies to grow with their technology stack and supporting and giving training for solutions based on Erlang and Elixir.
+
 Bet365:
   industry: Online Gambling
   url: https://www.bet365.com/
@@ -35,11 +43,18 @@ Cisco:
 
 "Erlang Solutions":
   industry: Consultancy
-  url:  https://www.erlang-solutions.com/
+  url: https://www.erlang-solutions.com/
   blog: https://www.erlang-solutions.com/blog.html
   github: https://github.com/esl/
   location: London, United Kingdom
   description: We build trusted, fault-tolerant systems that can scale to billions of users. Our Erlang & Elixir expertise is the backbone of our clients' operations.
+
+Ersista:
+  industry: BPMN Automation
+  url: http://erisata.com/en/
+  github: https://github.com/erisata/
+  location: Vilnius, Lithuania
+  description: We provide reliable Erlang based BPM, ESB solutions used in telecomunications and utilities sectors.
 
 Ericsson:
   industry: Telecommunications
