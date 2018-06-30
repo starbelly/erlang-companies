@@ -65,7 +65,7 @@ Genetec:
   description: Erlang is being used by Goldman Sachs in part of its HF trading platform. The Goldman Sachs platform is a very low latency (microseconds) event-driven market data processing, strategy, and order submission engine.
 
 Grindr:
-  industry: Geosocial networking
+  industry: Social networking
   url: https://www.grindr.com/
   github: https://github.com/grindrllc/
   location: West Hollywood, CA.
