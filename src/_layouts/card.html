@@ -13,14 +13,18 @@ layout: default
             {% for item in site.cards.meta %}
   
               {% if page.card[item.name] %}
-                          {% if item.name == "url" or item.name == "blog" %}
+                          {% if item.name == "url" or item.name == "blog" or
+                            item.name == "github" %}
          <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{
              item.fa-icon }}"></i></span> <a href="{{ page.card[item.name]
            }}">{{ page.card[item.name] | replace: "http://", "" | replace:
-           "https://", "" | replace: "www.", ""  | truncate: 40 }}</a><br>
+           "https://", "" | replace: "www.", "" | replace_regex: "/$", "" | truncate: 40 }}</a><br>
   
           {% else %} 
-                <span class="icon accent"><i class="{{ item.fa-style }} fa-fw fa-{{ item.fa-icon }}"></i></span> {{ page.card[item.name] | replace: "http://", "" | replace: "https://", "" | replace: "www.", ""  | truncate: 40  }}<br>{% endif %}
+                <span class="icon accent"><i class="{{ item.fa-style }} fa-fw
+                    fa-{{ item.fa-icon }}"></i></span> {{ page.card[item.name] |
+                replace: "http://", "" | replace: "https://", "" | replace:
+                "www.", "" | replace_regex: "/$", "" | truncate: 40  }}<br>{% endif %}
             {% endif %}
             {% endfor %}
           </div>

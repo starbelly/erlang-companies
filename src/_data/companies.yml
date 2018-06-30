@@ -11,78 +11,79 @@
 
 AdRoll:
   industry: E-commerce 
-  url: https://www.adroll.com
-  blog: https://blog.adroll.com
+  url: https://www.adroll.com/
+  blog: https://blog.adroll.com/
+  github: https://github.com/AdRoll/
   location: San Francisco, CA
   description: AdRoll uses Erlang within the live monitoring of their real-time bidding system. This involves live monitoring everything that could go wrong on a system receiving 500K+ bid requests per second, with a substantial monetary value attached.
 
 Bet365:
   industry: Online Gambling
-  url: https://www.bet365.com
-  blog: http://bet365techblog.com
-  github: https://github.com/bet365
+  url: https://www.bet365.com/
+  blog: http://bet365techblog.com/
+  github: https://github.com/bet365/
   location: Stoke-on-Trent, United Kingdom
   description: Bet365 uses Erlang and Elixir to service 20 million+ users and to meet the demands of 100,000s of concurrent users at peak times.  
 
 Cisco:
   industry: Networking
-  url: https://www.cisco.com
-  blog: https://blogs.cisco.com
-  github: https://github.com/cisco
+  url: https://www.cisco.com/
+  blog: https://blogs.cisco.com/
+  github: https://github.com/cisco/
   location: San Jose, CA
   description: Cisco ships 2 million devices per year which utlize the power of Erlang resulting in 90% of all internet traffic going through Erlang controlled nodes.
 
 "Erlang Solutions":
   industry: Consultancy
-  url:  https://www.erlang-solutions.com
-  blog: https://www.erlang-solutions.com/blog.html
-  github: https://github.com/esl
+  url:  https://www.erlang-solutions.com/
+  blog: https://www.erlang-solutions.com/blog.html/
+  github: https://github.com/esl/
   location: London, United Kingdom
   description: We build trusted, fault-tolerant systems that can scale to billions of users. Our Erlang & Elixir expertise is the backbone of our clients' operations.
 
 Ericsson:
   industry: Telecommunications
-  url: https://www.ericsson.com
-  blog: https://www.ericsson.com/research-blog
-  github: https://github.com/Ericsson
+  url: https://www.ericsson.com/
+  blog: https://www.ericsson.com/research-blog/
+  github: https://github.com/Ericsson/
   location: Stockholm, Sweden
   description: Ericsson uses Erlang to develop many of its products and an estimated 40 percent of all mobile traffic worldwide is carried over the company’s network solutions.
 
 Genetec:
   industry: Security
-  url:  https://www.genetec.com
-  blog: https://resources.genetec.com/blog
+  url:  https://www.genetec.com/
+  blog: https://resources.genetec.com/blog/
   location: Montréal, Québec, Canada
   description: IP video surveillance, access control, licence plate recognition, network security appliances
 
 "Goldman Sachs":
   industry: Financial 
-  url: http://www.goldmansachs.com
-  blog: http://www.goldmansachs.com/careers/blog
-  github: https://github.com/goldmansachs
+  url: http://www.goldmansachs.com/
+  blog: http://www.goldmansachs.com/careers/blog/
+  github: https://github.com/goldmansachs/
   location: New York City, NY
   description: Erlang is being used by Goldman Sachs in part of its HF trading platform. The Goldman Sachs platform is a very low latency (microseconds) event-driven market data processing, strategy, and order submission engine.
 
 Grindr:
   industry: Geosocial networking
-  url: https://www.grindr.com
-  github: https://github.com/grindrllc
+  url: https://www.grindr.com/
+  github: https://github.com/grindrllc/
   location: West Hollywood, CA.
   description: Erlang is used as part of the system Grindr uses to maintain a reliable, top performing and scalable stack for more than 3.2 Million daily active users.
 
 IBM: 
   industry: Information Technology
-  url: https://www.ibm.com
-  blog: https://www.ibm.com/blogs/bluemix
-  github: https://github.com/ibm
+  url: https://www.ibm.com/
+  blog: https://www.ibm.com/blogs/bluemix/
+  github: https://github.com/ibm/
   location: Armonk, NY
   description: Erlang is used in part to power Cloudant’s full-text search system. 
 
 WhatsApp:
   industry: Mobile Communications
-  url: https://www.whatsapp.com
-  blog: https://blog.whatsapp.com
-  github: https://github.com/WhatsApp
+  url: https://www.whatsapp.com/
+  blog: https://blog.whatsapp.com/
+  github: https://github.com/WhatsApp/
   location: Menlo Park, CA
   description: How do you support 450 million users with only 32 engineers? For WhatsApp, the answer was Erlang.
 
