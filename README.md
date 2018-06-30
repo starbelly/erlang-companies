@@ -1,3 +1,0 @@
-# Erlang Companies
-Coming soon.
-
