@@ -22,7 +22,15 @@ Bet365:
   blog: http://bet365techblog.com/
   github: https://github.com/bet365
   location: Stoke-on-Trent, United Kingdom
-  description: Bet365, use Erlang and Elixir to help it service 20 million+ users and to meet the demands of 100,000s of concurrent users at peak times.  
+  description: Bet365 uses Erlang and Elixir to help it service 20 million+ users and to meet the demands of 100,000s of concurrent users at peak times.  
+
+Cisco:
+  industry: Networking
+  url: https://www.cisco.com
+  blog: https://blogs.cisco.com/
+  github: https://github.com/cisco
+  location: San Jose, CA
+  description: Cisco ships 2 million devices per year which utlize the power of Erlang resulting in 90% of all internet traffic going through Erlang controlled nodes.
 
 Genetec:
   industry: Security
