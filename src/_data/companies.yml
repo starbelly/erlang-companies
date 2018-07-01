@@ -109,3 +109,11 @@ Klarna:
   github: https://github.com/klarna
   location: Stockholm, Sweden
   description: Erlang powers the core of Klarna's system serving millions of customers in Europe.
+
+"Channel.me":
+  industry: Customer Services
+  url: https://channel.me/
+  blog: https://channel.me/blog
+  github: https://github.com/channelme
+  location: Amsterdam, the Netherlands
+  description: Erlang is used to power our web based cobrowsing and chat solution. It allows us to keep our infrastructure performant, while still being simple and easy to maintain. This allows us to efficiently support our customers.
