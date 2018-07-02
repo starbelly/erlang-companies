@@ -134,3 +134,10 @@ Shiguredo (時雨堂):
   location: Tokyo, Japan
   description: Erlang is used to develop WebRTC SFU software package, Sora. Erlang makes real-time communications comfortable along with fun of development and ease of operations.
 
+Dwango:
+  industry: Network entertainment content and systems
+  url: http://dwango.co.jp/index.html
+  blog: https://dwango.github.io/
+  github: https://github.com/dwango
+  location: Tokyo, Japan
+  description: We use Erlang to develop Dwango Media Cluster (DMC) which is a content delivery system such as VoD and live streaming. Erlang is one of the core technologies in our company.
