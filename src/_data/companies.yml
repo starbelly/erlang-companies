@@ -117,3 +117,11 @@ Klarna:
   github: https://github.com/channelme
   location: Amsterdam, the Netherlands
   description: Erlang is used to power our web based cobrowsing and chat solution. It allows us to keep our infrastructure performant, while still being simple and easy to maintain. This allows us to efficiently support our customers.
+
+Dwango:
+  industry: Network entertainment contents and systems
+  url: http://dwango.co.jp/index.html
+  blog: https://dwango.github.io/
+  github: https://github.com/dwango
+  location: Tokyo, Japan
+  description: We uses Erlang to develop Dwango Media Cluster (DMC) which is a content delivery system such as VoD and live streaming. Erlang is one of the core technologies in our company.
