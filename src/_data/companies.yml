@@ -141,3 +141,11 @@ Dwango:
   github: https://github.com/dwango
   location: Tokyo, Japan
   description: We use Erlang to develop Dwango Media Cluster (DMC) which is a content delivery system such as VoD and live streaming. Erlang is one of the core technologies in our company.
+
+IRCCloud:
+  industry: Internet Communications
+  url: https://www.irccloud.com/
+  blog: IRCCloud Blog
+  github: https://github.com/irccloud
+  location: London, GB
+  description: Erlang powers our IRC bouncer software, websocket API, and our IRCv3 enhanced team IRC servers and Slack integration. We rely on Erlang’s power in concurrency, long running processes and message passing to provide an always connected, modern chat service.
