@@ -117,3 +117,11 @@ Klarna:
   github: https://github.com/channelme
   location: Amsterdam, the Netherlands
   description: Erlang is used to power our web based cobrowsing and chat solution. It allows us to keep our infrastructure performant, while still being simple and easy to maintain. This allows us to efficiently support our customers.
+
+Shiguredo (時雨堂):
+  industry: Real-Time Communications
+  url: https://shiguredo.jp/
+  blog: https://medium.com/shiguredo
+  github: https://github.com/shiguredo
+  location: Tokyo, Japan
+  description: Erlang is used to develop WebRTC SFU software package, Sora. Erlang makes real-time communications comfortable along with fun of development and ease of operations.
