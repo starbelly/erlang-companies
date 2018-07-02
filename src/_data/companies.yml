@@ -145,7 +145,7 @@ Dwango:
 IRCCloud:
   industry: Internet Communications
   url: https://www.irccloud.com/
-  blog: IRCCloud Blog
+  blog: https://blog.irccloud.com/
   github: https://github.com/irccloud
   location: London, GB
   description: Erlang powers our IRC bouncer software, websocket API, and our IRCv3 enhanced team IRC servers and Slack integration. We rely on Erlang’s power in concurrency, long running processes and message passing to provide an always connected, modern chat service.
