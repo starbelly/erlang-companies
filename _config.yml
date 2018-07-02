@@ -30,6 +30,7 @@ plugins:
   - jekyll-assets
   - kramdown
   - uglifier
+  - jekyll-seo-tag
 
 source: src
 destination: www
