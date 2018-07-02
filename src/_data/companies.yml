@@ -118,6 +118,14 @@ Klarna:
   location: Amsterdam, the Netherlands
   description: Erlang is used to power our web based cobrowsing and chat solution. It allows us to keep our infrastructure performant, while still being simple and easy to maintain. This allows us to efficiently support our customers.
 
+Flussonic:
+  industry: Telecommunications
+  url: https://flussonic.com
+  blog: https://flussonic.com/blog
+  github: https://github.com/flussonic
+  location: Moscow, Russia
+  description: "Erlang is used to capture, record and stream video at 10-20 Gbit/s: TV channels, IP cameras, webinars"
+  
 Shiguredo (時雨堂):
   industry: Real-Time Communications
   url: https://shiguredo.jp/
@@ -125,3 +133,4 @@ Shiguredo (時雨堂):
   github: https://github.com/shiguredo
   location: Tokyo, Japan
   description: Erlang is used to develop WebRTC SFU software package, Sora. Erlang makes real-time communications comfortable along with fun of development and ease of operations.
+
