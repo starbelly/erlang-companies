@@ -125,3 +125,12 @@ Flussonic:
   github: https://github.com/flussonic
   location: Moscow, Russia
   description: "Erlang is used to capture, record and stream video at 10-20 Gbit/s: TV channels, IP cameras, webinars"
+  
+Shiguredo (時雨堂):
+  industry: Real-Time Communications
+  url: https://shiguredo.jp/
+  blog: https://medium.com/shiguredo
+  github: https://github.com/shiguredo
+  location: Tokyo, Japan
+  description: Erlang is used to develop WebRTC SFU software package, Sora. Erlang makes real-time communications comfortable along with fun of development and ease of operations.
+
