@@ -154,4 +154,4 @@ Tsuriai:
   industry: Information Technology
   url: http://tsuriai.jp
   location: Okinawa, Japan
-  description: "Erlang is used across our business, including implementation of Automated Office. The AO client, server, registry and peer connectors are all implemented in Erlang, as is our code deployment infrastructure. We provide Erlang consulting and write game and chat backends in Erlang by contract."
+  description: Erlang is used across our business, including implementation of Automated Office. The AO client, server, registry and peer connectors are all implemented in Erlang, as is our code deployment infrastructure. We provide Erlang consulting and write game and chat backends in Erlang by contract.
