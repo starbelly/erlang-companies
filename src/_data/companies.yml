@@ -86,6 +86,14 @@ Grindr:
   location: West Hollywood, CA.
   description: Erlang is used as part of the system Grindr uses to maintain a reliable, top performing and scalable stack for more than 3.2 Million daily active users.
 
+Heroku:
+  blog: https://blog.heroku.com/
+  description: Erlang is used for routing requests to containers and Elixir is used for some internal systems.  
+  github: https://github.com/heroku/
+  industry: Cloud based hosting
+  url: https://heroku.com/
+  location: San Francisco, CA
+
 IBM: 
   industry: Information Technology
   url: https://www.ibm.com/
