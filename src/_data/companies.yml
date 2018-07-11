@@ -10,7 +10,7 @@
 #     Company description including a short summary of how Erlang is used in production
 
 AdRoll:
-  industry: E-commerce 
+  industry: E-commerce
   url: https://www.adroll.com/
   blog: https://blog.adroll.com/
   github: https://github.com/AdRoll/
@@ -18,11 +18,11 @@ AdRoll:
   description: AdRoll uses Erlang within the live monitoring of their real-time bidding system. This involves live monitoring everything that could go wrong on a system receiving 500K+ bid requests per second, with a substantial monetary value attached.
 
 "Altenwald Solutions, S.L.":
-  industry: Consultancy 
-  url: https://altenwald.com/ 
+  industry: Consultancy
+  url: https://altenwald.com/
   blog: https://altenwald.org/
   github: https://github.com/altenwald/
-  location: Córdoba, Spain 
+  location: Córdoba, Spain
   description: Altenwald is a company with wide experience helping others companies to grow with their technology stack and supporting and giving training for solutions based on Erlang and Elixir.
 
 Bet365:
@@ -31,7 +31,7 @@ Bet365:
   blog: http://bet365techblog.com/
   github: https://github.com/bet365/
   location: Stoke-on-Trent, United Kingdom
-  description: Bet365 uses Erlang and Elixir to service 20 million+ users and to meet the demands of 100,000s of concurrent users at peak times.  
+  description: Bet365 uses Erlang and Elixir to service 20 million+ users and to meet the demands of 100,000s of concurrent users at peak times.
 
 Cisco:
   industry: Networking
@@ -72,7 +72,7 @@ Genetec:
   description: IP video surveillance, access control, licence plate recognition, network security appliances
 
 "Goldman Sachs":
-  industry: Financial 
+  industry: Financial
   url: http://www.goldmansachs.com/
   blog: http://www.goldmansachs.com/careers/blog/
   github: https://github.com/goldmansachs/
@@ -88,19 +88,19 @@ Grindr:
 
 Heroku:
   blog: https://blog.heroku.com/
-  description: Erlang is used for routing requests to containers and Elixir is used for some internal systems.  
+  description: Erlang is used for routing requests to containers and Elixir is used for some internal systems.
   github: https://github.com/heroku/
   industry: Cloud based hosting
   url: https://heroku.com/
   location: San Francisco, CA
 
-IBM: 
+IBM:
   industry: Information Technology
   url: https://www.ibm.com/
   blog: https://www.ibm.com/blogs/bluemix/
   github: https://github.com/ibm/
   location: Armonk, NY
-  description: Erlang is used in part to power Cloudant’s full-text search system. 
+  description: Erlang is used in part to power Cloudant’s full-text search system.
 
 WhatsApp:
   industry: Mobile Communications
@@ -133,7 +133,7 @@ Flussonic:
   github: https://github.com/flussonic
   location: Moscow, Russia
   description: "Erlang is used to capture, record and stream video at 10-20 Gbit/s: TV channels, IP cameras, webinars"
-  
+
 Shiguredo (時雨堂):
   industry: Real-Time Communications
   url: https://shiguredo.jp/
@@ -170,3 +170,11 @@ Tsuriai:
   github: https://github.com/cursorinsight/
   location: Budapest, Hungary
   description: The backend of Cursor Insight's electronic signature solution (which serves millions of banking customers) is written in Erlang and Julia.
+
+"2600Hz":
+  industry: Telecommunications
+  url: https://www.2600hz.com
+  blog: https://blog.2600hz.com/
+  github: https://github.com/2600hz
+  location: San Francisco, CA
+  description: Erlang powers the Kazoo platform which offers Class 4, Class 5 and CPaaS functionality on top of a geo-redundant system.
