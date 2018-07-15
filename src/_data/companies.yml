@@ -178,7 +178,7 @@ Tsuriai:
   github: https://github.com/2600hz
   location: San Francisco, CA
   description: Erlang powers the Kazoo platform which offers Class 4, Class 5 and CPaaS functionality on top of a geo-redundant system.
- 
+
 "Software Joint":
   industry: Real-Time Communications
   url: https://www.softwarejoint.com/
@@ -186,3 +186,10 @@ Tsuriai:
   github: https://github.com/softwarejoint
   location: New Delhi, India
   description: Erlang supports our communications platform based on websockets, webrtc & bert. Currently supporting hundreds of customers and millions of users.
+
+FunBox:
+  industry: Telecommunications
+  url: https://funbox.ru/
+  github: https://github.com/funbox
+  location: Moscow, Russia
+  description: Erlang is used for high-volume message processing and event routing.
