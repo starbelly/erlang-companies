@@ -205,3 +205,9 @@ Reksoft:
   url: https://www.motorolasolutions.com/
   location: Krakow, Poland
   description: Motorola Solutions uses Erlang and Elixir to develop components of mission critical communication systems that need to be reliable and fault-tolerant in the moment that matters.
+
+"K2 Informatics GmbH":
+  industry: Telecommunications
+  url: http://www.k2informatics.ch/
+  location: Luzern, Switzerland
+  description: K2 uses erlang to guarantee high performance and availability in the fault-tolerant and scalable platforms and proxies build to address tele-communicating challenges.
