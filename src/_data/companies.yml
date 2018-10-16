@@ -205,3 +205,11 @@ Reksoft:
   url: https://www.motorolasolutions.com/
   location: Krakow, Poland
   description: Motorola Solutions uses Erlang and Elixir to develop components of mission critical communication systems that need to be reliable and fault-tolerant in the moment that matters.
+
+"Alert Logic":
+  industry: Security
+  url: https://www.alertlogic.com
+  blog: https://blog.alertlogic.com
+  github: https://github.com/alertlogic
+  location: Houston, TX
+  description: Erlang powers the Alert Logic Security-as-a-Service solutions that secure the application and infrastructure stack of the cloud, processing millions of events per second from over 4,000 customers.
