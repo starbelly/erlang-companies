@@ -213,3 +213,11 @@ Reksoft:
   github: https://github.com/alertlogic
   location: Houston, TX
   description: Erlang powers the Alert Logic Security-as-a-Service solutions that secure the application and infrastructure stack of the cloud, processing millions of events per second from over 4,000 customers.
+
+æternity:
+  industry: Blockchain
+  url: https://aeternity.com
+  blog: https://blog.aeternity.com/
+  github: https://github.com/aeternity
+  location: Liechtenstein
+  description: An open-source, blockchain-based platform for scalable & user-friendly decentralized applications. Written in Erlang and Elixir.
