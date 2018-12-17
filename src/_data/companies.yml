@@ -228,3 +228,11 @@ Reksoft:
   github: https://github.com/aeternity
   location: Liechtenstein
   description: An open-source, blockchain-based platform for scalable & user-friendly decentralized applications. Written in Erlang and Elixir.
+
+Postmates:
+  industry: Online Ordering
+  url: https://www.postmates.com/
+  blog: https://blog.postmates.com/
+  github: https://github.com/postmates/
+  location: San Francisco, CA
+  description: Postmates is the largest, most reliable on-demand delivery and pickup platform. Erlang and Elixir are used for multiple core backend components.
