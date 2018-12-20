@@ -236,3 +236,11 @@ Postmates:
   github: https://github.com/postmates/
   location: San Francisco, CA
   description: Postmates is the largest, most reliable on-demand delivery and pickup platform. Erlang and Elixir are used for multiple core backend components.
+  
+Instadeq:
+  industry: Data Analysis and Visualization
+  url: https://instadeq.com/
+  blog: https://instadeq.com/blog/
+  github: https://github.com/instadeq/
+  location: Stuttgart, Germany; Córdoba, Argentina
+  description: Data analysis, visualization and collaboration for individuals and teams. Our backend is built with Efene and Erlang.
