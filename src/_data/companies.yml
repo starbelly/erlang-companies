@@ -244,3 +244,11 @@ Instadeq:
   github: https://github.com/instadeq/
   location: Stuttgart, Germany; Córdoba, Argentina
   description: Data analysis, visualization and collaboration for individuals and teams. Our backend is built with Efene and Erlang.
+  
+relayr:
+  industry: IoT
+  url: https://relayr.io/
+  blog: https://relayr.io/blog/
+  github: https://github.com/relayr/
+  location: Berlin, Germany; Katowice, Poland
+  description: Erlang is used mostly in microservices that serve REST interfaces for clients and also in device protocol adapters (HTTP, CoAP, SNMP, etc.).
