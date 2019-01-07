@@ -252,3 +252,12 @@ relayr:
   github: https://github.com/relayr/
   location: Berlin, Germany; Katowice, Poland
   description: Erlang is used mostly in microservices that serve REST interfaces for clients and also in device protocol adapters (HTTP, CoAP, SNMP, etc.).
+
+LambdaClass:
+  industry: Information Technology
+  url: http://lambdaclass.com/
+  blog: https://notamonadtutorial.com/
+  github: https://github.com/lambdaclass
+  location: Argentina
+  description: Software consultancy and development company, with experience in Erlang and Elixir.
+
