@@ -267,3 +267,11 @@ LambdaClass:
   github: https://github.com/lambdaclass
   location: Argentina
   description: Software consultancy and development company, with experience in Erlang and Elixir.
+
+Leapsight:
+  industry: Information Technology
+  url: http://www.leapsight.com
+  blog: http://www.leapsight.com/
+  github: https://gitlab.com/leapsight
+  location: London, United Kingdom; Buenos Aires, Argentina; Rosario, Argentina
+  description: We use Erlang to do scalable, interactive, intelligent systems. Erlang also powers our products: Bondy, an OSS WAMP Broker and API Gateway; and LSD, a distributed, semantic and deductive database.
