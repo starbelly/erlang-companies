@@ -274,4 +274,4 @@ Leapsight:
   blog: http://www.leapsight.com/
   github: https://gitlab.com/leapsight
   location: London, United Kingdom; Buenos Aires, Argentina; Rosario, Argentina
-  description: We use Erlang to do scalable, interactive, intelligent systems. Erlang also powers our products: Bondy, an OSS WAMP Broker and API Gateway; and LSD, a distributed, semantic and deductive database.
+  description: We use Erlang to do scalable, interactive, intelligent systems. Erlang also powers our products - Bondy, an OSS WAMP Broker and API Gateway; and LSD, a distributed, semantic and deductive database.
