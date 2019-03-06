@@ -281,3 +281,9 @@ Leapsight:
   url: http://www.enki-multimedia.org
   location: Paris, France
   description: We use Erlang to provide a decentralized data platform to our customers. We open-sourced Barrel (https://barrel-db.org), among many other Erlang libraries, which are a key part of our data platform.
+
+"FieldBox.AI":
+  industry: Information Technology
+  url: https://www.fieldbox.ai/
+  location: Bordeaux, France
+  description: We are building the factory of the future! We use Erlang to deploy industry grade AI solutions.
