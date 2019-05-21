@@ -295,3 +295,9 @@ Leapsight:
   blog: https://simplabs.com/blog/
   location: Munich, Germany
   description: We build ambitious web and mobile solutions for clients across the world, mostly with Elixir/Phoenix and Ember.js. Our open source air-quality PWA Breethe (https://breethe.app) is backed by Elixir.
+"Testing Pays":
+  industry: Developer Tools
+  url: https://www.testingpays.com
+  github: https://github.com/TestingPays
+  location: Dublin, Ireland
+  description: "We are changing how e-commerce is built using Erlang and Elixir. Whether you are a freelancer or a large enterprise team, you can build, test and scale your payments systems with confidence."
