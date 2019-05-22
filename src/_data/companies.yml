@@ -324,3 +324,11 @@ Loxysoft:
   blog: https://vernemq.com/blog/
   location: Zurich/Basel, Switzerland
   description: We're developing and maintaining the open source IoT/MQTT broker VerneMQ, the core for many IoT platforms and use cases.
+
+"Helium":
+  industry: IoT networking
+  url: https://helium.com
+  github: https://github.com/helium
+  blog: https://blog.helium.com
+  location: San Francisco, California
+  description: Helium is shaping the future by rewarding anyone for creating a global decentralized wireless network for billions of machines.
