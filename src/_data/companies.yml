@@ -295,3 +295,11 @@ Leapsight:
   blog: https://simplabs.com/blog/
   location: Munich, Germany
   description: We build ambitious web and mobile solutions for clients across the world, mostly with Elixir/Phoenix and Ember.js. Our open source air-quality PWA Breethe (https://breethe.app) is backed by Elixir.
+
+"Buy Me a Pie!":
+  industry: Customer Services
+  url: https://buymeapie.com
+  github: https://github.com/Skript
+  blog: http://blog.buymeapie.com/
+  location: Ulyanovsk, Russia
+  description: We create a shopping list application called "Buy Me a Pie!" (iOS, Android). Erlang is used in the backend for the application.
