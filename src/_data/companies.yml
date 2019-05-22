@@ -212,7 +212,7 @@ Reksoft:
   url: http://www.k2informatics.ch/
   location: Luzern, Switzerland
   description: K2 uses erlang to guarantee high performance and availability in the fault-tolerant and scalable platforms and proxies build to address tele-communicating challenges.
-  
+
 "Alert Logic":
   industry: Security
   url: https://www.alertlogic.com
@@ -236,7 +236,7 @@ Postmates:
   github: https://github.com/postmates/
   location: San Francisco, CA
   description: Postmates is the largest, most reliable on-demand delivery and pickup platform. Erlang and Elixir are used for multiple core backend components.
-  
+
 Instadeq:
   industry: Data Analysis and Visualization
   url: https://instadeq.com/
@@ -244,7 +244,7 @@ Instadeq:
   github: https://github.com/instadeq/
   location: Stuttgart, Germany; Córdoba, Argentina
   description: Data analysis, visualization and collaboration for individuals and teams. Our backend is built with Efene and Erlang.
-  
+
 relayr:
   industry: IoT
   url: https://relayr.io/
@@ -317,3 +317,10 @@ Loxysoft:
   location: Dublin, Ireland
   description: "We are changing how e-commerce is built using Erlang and Elixir. Whether you are a freelancer or a large enterprise team, you can build, test and scale your payments systems with confidence."
 
+"Octavo Labs":
+  industry: IoT messaging
+  url: https://octavolabs.com
+  github: https://github.com/vernemq
+  blog: https://vernemq.com/blog/
+  location: Zurich/Basel, Switzerland
+  description: We're developing and maintaining the open source IoT/MQTT broker VerneMQ, the core for many IoT platforms and use cases.
