@@ -309,3 +309,11 @@ Loxysoft:
   url: https://www.loxysoft.com
   location: Östersund, Sweden
   description: Loxysoft produces software and services for customer service and sales. Our backend for outbound dialing is built with Erlang since 2005.
+
+"Testing Pays":
+  industry: Developer Tools
+  url: https://www.testingpays.com
+  github: https://github.com/TestingPays
+  location: Dublin, Ireland
+  description: "We are changing how e-commerce is built using Erlang and Elixir. Whether you are a freelancer or a large enterprise team, you can build, test and scale your payments systems with confidence."
+
