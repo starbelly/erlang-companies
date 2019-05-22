@@ -303,3 +303,9 @@ Leapsight:
   blog: http://blog.buymeapie.com/
   location: Ulyanovsk, Russia
   description: We create a shopping list application called "Buy Me a Pie!" (iOS, Android). Erlang is used in the backend for the application.
+
+Loxysoft:
+  industry: Customer Services
+  url: https://www.loxysoft.com
+  location: Östersund, Sweden
+  description: Loxysoft produces software and services for customer service and sales. Our backend for outbound dialing is built with Erlang since 2005.
