@@ -295,9 +295,25 @@ Leapsight:
   blog: https://simplabs.com/blog/
   location: Munich, Germany
   description: We build ambitious web and mobile solutions for clients across the world, mostly with Elixir/Phoenix and Ember.js. Our open source air-quality PWA Breethe (https://breethe.app) is backed by Elixir.
+
+"Buy Me a Pie!":
+  industry: Customer Services
+  url: https://buymeapie.com
+  github: https://github.com/Skript
+  blog: http://blog.buymeapie.com/
+  location: Ulyanovsk, Russia
+  description: We create a shopping list application called "Buy Me a Pie!" (iOS, Android). Erlang is used in the backend for the application.
+
+Loxysoft:
+  industry: Customer Services
+  url: https://www.loxysoft.com
+  location: Östersund, Sweden
+  description: Loxysoft produces software and services for customer service and sales. Our backend for outbound dialing is built with Erlang since 2005.
+
 "Testing Pays":
   industry: Developer Tools
   url: https://www.testingpays.com
   github: https://github.com/TestingPays
   location: Dublin, Ireland
   description: "We are changing how e-commerce is built using Erlang and Elixir. Whether you are a freelancer or a large enterprise team, you can build, test and scale your payments systems with confidence."
+
