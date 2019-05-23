@@ -332,3 +332,10 @@ Loxysoft:
   blog: https://blog.helium.com
   location: San Francisco, California
   description: Helium is shaping the future by rewarding anyone for creating a global decentralized wireless network for billions of machines.
+
+"RBK.money":
+  industry: E-commerce
+  url: https://rbk.money
+  github: https://github.com/rbkmoney
+  location: Moscow, Russia
+  description: Erlang is a core of our payment platform serving millions of customers around the world.
