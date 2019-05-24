@@ -361,3 +361,16 @@ Loxysoft:
   github: https://github.com/godaddy
   location: Worldwide
   description: GoDaddy powers the world’s largest cloud platform dedicated to small, independent ventures. With 18.8M+ customers worldwide and 78M+ domain names under management, GoDaddy is the place people come to name their idea, build a professional website, attract customers and manage their work.
+
+"WhatWebWhat":
+  industry: Consultancy
+  url: http://www.whatwebwhat.com/
+  github: https://github.com/mworrell
+  location: Amstelveen, Netherlands
+  description: As lead developer of the Erlang based open source content management system Zotonic, WhatWebWhat is the web- and Erlang consultancy company of Marc Worrell.
+
+"Maximonster Interactive Things":
+  industry: Consultancy
+  url: http://www.maximonster.com/
+  location: Amsterdam, Netherlands
+  description: 
