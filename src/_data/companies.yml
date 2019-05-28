@@ -339,3 +339,11 @@ Loxysoft:
   github: https://github.com/rbkmoney
   location: Moscow, Russia
   description: Erlang is a core of our payment platform serving millions of customers around the world.
+  
+ "Peer Stritzinger GmbH":
+  industry: Industrial IoT, Embedded Systems
+  url: https://www.stritzinger.com
+  github: https://github.com/grisp
+  location: Munich, Germany (HQ) but company is fully distributed
+  description: Running Erlang on Real Bare Metal (we make www.grisp.org), small embedded systems with Erlang technology from hardware to cloud services
+
