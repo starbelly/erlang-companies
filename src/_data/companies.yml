@@ -347,3 +347,10 @@ Loxysoft:
   location: Munich, Germany (HQ) but company is fully distributed
   description: Running Erlang on Real Bare Metal (we make www.grisp.org), small embedded systems with Erlang technology from hardware to cloud services
 
+"Timeweb Co. Ltd":
+  industry: Telecommunications
+  url: https://timeweb.com
+  github: https://github.com/timeweb
+  location: Saint Petersburg, Russia
+  description: Shared, VDS and dedicated hosting. Using Erlang for customer services API, most loaded part of hosting system. 
+
