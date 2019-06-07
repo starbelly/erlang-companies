@@ -354,3 +354,10 @@ Loxysoft:
   location: Saint Petersburg, Russia
   description: Shared, VDS and dedicated hosting. Using Erlang for customer services API, most loaded part of hosting system. 
 
+"GoDaddy.Com":
+  industry: Domain Registrar
+  url: https://www.godaddy.com/
+  blog: https://godaddy.github.io/blog-posts/
+  github: https://github.com/godaddy
+  location: Worldwide
+  description: GoDaddy powers the world’s largest cloud platform dedicated to small, independent ventures. With 18.8M+ customers worldwide and 78M+ domain names under management, GoDaddy is the place people come to name their idea, build a professional website, attract customers and manage their work.
