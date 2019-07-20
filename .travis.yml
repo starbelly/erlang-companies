@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.5.1
+  - 2.6.3
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
@@ -12,8 +12,7 @@ addons:
 before_script:
   - npm install -g bower
   - bower install
-script:
-  - gem install bundler -v 1.16.1
+script: 
   - bundle exec jekyll build
   - bundle exec htmlproofer --assume_extension ./www --disable-external
 deploy:
