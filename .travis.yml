@@ -13,6 +13,7 @@ before_script:
   - npm install -g bower
   - bower install
 script:
+  - gem update --system 
   - bundle exec jekyll build
   - bundle exec htmlproofer --assume_extension ./www --disable-external
 deploy:
