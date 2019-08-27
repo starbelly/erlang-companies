@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/starbelly/erlang-companies.svg?branch=master)](https://travis-ci.com/starbelly/erlang-companies)
 # Erlang Companies
 
-A [curated list of companies using Erlang](https://erlang-companies.org/) in production, organized by industry.
+A [community driven list of companies using Erlang](https://erlang-companies.org/) in production, organized by industry.
 
 ## Contributing
 
