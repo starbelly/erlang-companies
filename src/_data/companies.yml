@@ -374,3 +374,9 @@ Loxysoft:
   url: http://www.maximonster.com/
   location: Amsterdam, Netherlands
   description: Maximonster uses Erlang and the Zotonic CMS for LearningStone and other platforms. LearningStone is a cloud based learning & collaboration platform for professional training and coaches.
+
+"Deleeng LLC":
+  industry: Machine Learning and Data Analysis
+  url: https://deleeng.com
+  location: CDMX, México
+  description: Deleeng uses Erlang for data analysis with real time application updates, cache layers and delta updates handling big amount of data with very fast responses and great performance.
