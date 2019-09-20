@@ -23,7 +23,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github: starbelly/erlang-companies
 maintainers:
   - starbelly
-  - burden
   
 # Build settings
 plugins:
