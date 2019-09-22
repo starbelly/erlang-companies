@@ -380,3 +380,10 @@ Loxysoft:
   url: https://deleeng.com
   location: CDMX, México
   description: Deleeng uses Erlang for data analysis with real time application updates, cache layers and delta updates handling big amount of data with very fast responses and great performance.
+
+"Rocket Journey":
+  industry: Health & Fitness
+  url: https://rocketjourney.com
+  github: https://github.com/RocketJourney/
+  location: CDMX, México
+  description: RocketJourney uses Erlang and Elixir to power up their backend platform to give users a tool for pursuing the habit of exercise with game mechanics, challenges, friendly peer-pressure and more.
