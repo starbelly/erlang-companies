@@ -269,12 +269,12 @@ LambdaClass:
   description: Software consultancy and development company, with experience in Erlang and Elixir.
 
 Leapsight:
-  industry: Information Technology
+  industry: Information Technology, IoT
   url: http://www.leapsight.com
   blog: http://www.leapsight.com/
   github: https://gitlab.com/leapsight
-  location: London, United Kingdom; Buenos Aires, Argentina; Rosario, Argentina
-  description: We use Erlang to do scalable, interactive, intelligent systems. Erlang also powers our products - Bondy, an OSS WAMP Broker and API Gateway; and LSD, a distributed, semantic and deductive database.
+  location: London, United Kingdom; Buenos Aires, Argentina
+  description: We use Erlang to do scalable, real-time, intelligent systems. Erlang also powers our products: Bondy (open source networking platform for MicroServices and IoT applications implementing the WAMP protocol), LSD (distributed, knowledge graph and deductive database) and un upcoming IoT Platform.
 
 "Enki Multimedia":
   industry: Information Technology
