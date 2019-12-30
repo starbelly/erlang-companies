@@ -274,7 +274,7 @@ Leapsight:
   blog: http://www.leapsight.com/
   github: https://gitlab.com/leapsight
   location: London, United Kingdom; Buenos Aires, Argentina
-  description: We use Erlang to do scalable, real-time, intelligent systems. Erlang also powers our products: Bondy (open source networking platform for MicroServices and IoT applications implementing the WAMP protocol), LSD (distributed, knowledge graph and deductive database) and un upcoming IoT Platform.
+  description: We use Erlang to do scalable, real-time, intelligent systems. Erlang powers our products: Bondy (open source networking platform for MicroServices and IoT, a WAMP Router and REST API GAteway), LSD (distributed, knowledge graph and deductive database) and Leapsight IoT Platform.
 
 "Enki Multimedia":
   industry: Information Technology
