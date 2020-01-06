@@ -339,7 +339,7 @@ Loxysoft:
   github: https://github.com/rbkmoney
   location: Moscow, Russia
   description: Erlang is a core of our payment platform serving millions of customers around the world.
-  
+
 "Peer Stritzinger GmbH":
   industry: Industrial IoT, Embedded Systems
   url: https://www.stritzinger.com
@@ -352,7 +352,7 @@ Loxysoft:
   url: https://timeweb.com
   github: https://github.com/timeweb
   location: Saint Petersburg, Russia
-  description: Shared, VDS and dedicated hosting. Using Erlang for customer services API, most loaded part of hosting system. 
+  description: Shared, VDS and dedicated hosting. Using Erlang for customer services API, most loaded part of hosting system.
 
 "GoDaddy.Com":
   industry: Domain Registrar
@@ -387,3 +387,10 @@ Loxysoft:
   github: https://github.com/RocketJourney/
   location: CDMX, México
   description: RocketJourney uses Erlang and Elixir to power up their backend platform to give users a tool for pursuing the habit of exercise with game mechanics, challenges, friendly peer-pressure and more.
+
+"Old Reliable Tech Ltd":
+  industry: Consultancy
+  url: https://oldreliable.tech
+  github: https://github.com/old-reliable
+  location: Oxford, UK (HQ) but company is distributed
+  description: Old Reliable is a team of problem solvers and software engineers. We use Erlang and Elixir to help our clients make rapid progress on their technical projects.
