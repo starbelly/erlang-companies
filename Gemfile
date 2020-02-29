@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby "2.6.4"
 gem "jekyll", "~> 3.8.3"
-gem "rake", "~> 12.3.1"
+gem "rake", "~> 12.3.3"
 gem "html-proofer", "~> 3.9.1"
 gem "json", "~> 2.1.0"
 
