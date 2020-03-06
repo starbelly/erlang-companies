@@ -210,6 +210,7 @@ Reksoft:
 "K2 Informatics GmbH":
   industry: Telecommunications
   url: http://www.k2informatics.ch/
+  github: https://github.com/K2InformaticsGmbH
   location: Luzern, Switzerland
   description: K2 uses erlang to guarantee high performance and availability in the fault-tolerant and scalable platforms and proxies build to address tele-communicating challenges.
 
