@@ -395,3 +395,11 @@ Loxysoft:
   github: https://github.com/old-reliable
   location: Oxford, UK (HQ) but company is distributed
   description: Old Reliable is a team of problem solvers and software engineers. We use Erlang and Elixir to help our clients make rapid progress on their technical projects.
+
+"SigScale":
+  industry: Telecommunications
+  url: http://www.sigscale.com/
+  github: https://github.com/sigscale/
+  location: Global
+  description: We build engines for the core of communications service provider's networks and key components of operational and business support systems.
+
