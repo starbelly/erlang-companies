@@ -403,3 +403,9 @@ Loxysoft:
   location: Global
   description: We build engines for the core of communications service provider's networks and key components of operational and business support systems.
 
+"RedClaw Technologies":
+  industry: Consultancy
+  url: https://www.redclawtech.com/
+  github: https://github.com/redclawtech
+  location: Florida, Worldwide
+  description: We are software cooperative focused on helping companies solve their problems around real-time, high concurrency web systems and IoT infrastructures. We use Erlang/OTP and Elixir as the choice technology for most of our development. We are also contributors to the VerneMQ message broker and offer plugin development and support for that platform.
