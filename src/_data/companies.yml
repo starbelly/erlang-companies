@@ -49,6 +49,14 @@ Cisco:
   location: London, United Kingdom
   description: We build trusted, fault-tolerant systems that can scale to billions of users. Our Erlang & Elixir expertise is the backbone of our clients' operations.
 
+"Pattern Match":
+  industry: Consultancy
+  url: https://www.pattern-match.com/
+  blog: https://www.pattern-match.com/blog/
+  github: https://github.com/patternmatch/
+  location: Krakow, Poland
+  description: Erlang, Java & AWS. We can help you with developing the product, setting up infrastructure that is going to survive millions of concurrent users, perform full scale load tests to prove it and hook up business metrics, so that you can see it with your own eyes. Our main areas of expertise are Ad Tech, Instant Messaging, Public Transport & IoT.
+
 Erisata:
   industry: BPMN Automation
   url: http://erisata.com/en
