@@ -417,3 +417,9 @@ Loxysoft:
   github: https://github.com/redclawtech
   location: Florida, Worldwide
   description: We are software cooperative focused on helping companies solve their problems around real-time, high concurrency web systems and IoT infrastructures. We use Erlang/OTP and Elixir as the choice technology for most of our development. We are also contributors to the VerneMQ message broker and offer plugin development and support for that platform.
+
+"8x8":
+  industry: Cloud-based Business Communications Services
+  url: https://www.8x8.com
+  location: Campbell, California, USA
+  description: 8x8 is a leading SaaS provider of video, voice, chat, contact center, and enterprise-class API solutions powered by one global cloud communications platform. We use Erlang to ensure the highest performance of instant messaging and event delivering to clients across the globe. In addition, distributed Erlang helps us design a scalable, reliable and fault tolerant system in a cost effective manner.
