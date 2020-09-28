@@ -423,3 +423,10 @@ Loxysoft:
   url: https://www.8x8.com
   location: Campbell, California, USA
   description: 8x8 is a leading SaaS provider of video, voice, chat, contact center, and enterprise-class API solutions powered by one global cloud communications platform. We use Erlang to ensure the highest performance of instant messaging and event delivering to clients across the globe. In addition, distributed Erlang helps us design a scalable, reliable and fault tolerant system in a cost effective manner.
+ 
+"Evolution Gaming Ltd":
+  industry: Gambling & Casinos
+  url: https://www.evolutiongaming.com
+  github: https://github.com/evolution-gaming
+  location: Global
+  description: Evoneering uses Erlang and Elixir to power video load balancing services and media delivery, providing near instant access to live video content to clients around the globe. Also used for a variety of backend services for device management.
