@@ -63,6 +63,13 @@ Erisata:
   github: https://github.com/erisata/
   location: Vilnius, Lithuania
   description: We provide reliable Erlang based BPM, ESB solutions used in telecomunications and utilities sectors.
+  
+NodeArt:
+  industry: BPMN Automation
+  url: https://nodeart.io/
+  github: https://github.com/nodeart/
+  location: Kyiv, Ukraine
+  description: We provide document automation engine based on BPMN, build on top of Erlang\Elixir.
 
 Ericsson:
   industry: Telecommunications
