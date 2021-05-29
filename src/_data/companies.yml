@@ -437,3 +437,10 @@ Loxysoft:
   github: https://github.com/evolution-gaming
   location: Global
   description: Evoneering uses Erlang and Elixir to power video load balancing services and media delivery, providing near instant access to live video content to clients around the globe. Also used for a variety of backend services for device management.
+
+"Couchbase":
+  industry: Databases
+  url: https://www.couchbase.com
+  github: https://github.com/couchbase
+  location: Global
+  description: Couchbase is a distributed NoSQL cloud database. It delivers unmatched versatility, performance, scalability across cloud, on-premises, hybrid, and edge computing deployments. We use Erlang to manage the couchbase cluster.
