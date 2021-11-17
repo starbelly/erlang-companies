@@ -444,3 +444,10 @@ Loxysoft:
   github: https://github.com/couchbase
   location: Global
   description: Couchbase is a distributed NoSQL cloud database. It delivers unmatched versatility, performance, scalability across cloud, on-premises, hybrid, and edge computing deployments. We use Erlang to manage the couchbase cluster.
+
+Quanterall:
+  industry: IoT, Blockchain, Software development contracting
+  url: https://quanterall.com/
+  github: https://github.com/quanterall/
+  location: Bulgaria
+  description: Quanterall is an R&D Lab for software and hardware engineering. The core business of the company is to develop custom Blockchain solutions, Enterprise software, and IoT infrastructure. Our projects are mainly based on Erlang, Elixir and Haskell.
