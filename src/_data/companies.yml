@@ -451,3 +451,9 @@ Quanterall:
   github: https://github.com/quanterall/
   location: Bulgaria
   description: Quanterall is an R&D Lab for software and hardware engineering. The core business of the company is to develop custom Blockchain solutions, Enterprise software, and IoT infrastructure. Our projects are mainly based on Erlang, Elixir and Haskell.
+
+"redBus":
+  industry: E-commerce
+  url: https://www.redbus.in
+  location: India
+  description: redBus is the world’s largest bus ticketing firm which has pioneered in solving for ground transport challenges across India as well as several International geographies since 2006. At the crux of our tech platform lies a micro services based architecture, where some of the key subsystems like the inventory management(including search) platform and the order management platform are powered by Erlang.
