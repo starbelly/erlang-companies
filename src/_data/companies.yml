@@ -457,3 +457,10 @@ Quanterall:
   url: https://www.redbus.in
   location: India
   description: redBus is the world’s largest bus ticketing firm which has pioneered in solving for ground transport challenges across India as well as several International geographies since 2006. At the crux of our tech platform lies a micro services based architecture, where some of the key subsystems like the inventory management(including search) platform and the order management platform are powered by Erlang.
+
+"EMQ Technologies":
+  industry: IoT
+  url: https://www.emqx.com/
+  github: https://github.com/emqx
+  location: Global
+  description: EMQ is an open-source IoT data infrastructure software provider, delivering the world's leading cloud-native MQTT-based IoT messaging platform and streaming database, providing a one-stop cloud-native solution for real-time IoT data connection, movement, processing and analytics, from edge to cloud to multicloud.
