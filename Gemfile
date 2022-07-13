@@ -1,13 +1,13 @@
 source "https://rubygems.org"
 ruby "2.6.4"
-gem "jekyll", "~> 3.8.3"
+gem "jekyll", "~> 3.9.2"
 gem "rake", "~> 12.3.3"
 gem "html-proofer", "~> 3.9.1"
 gem "json", "~> 2.3.0"
 
 group :jekyll_plugins do
   gem "jekyll-assets", "~> 3.0.11"
-  gem "kramdown", "~> 1.17.0"
+  gem "kramdown", "~> 2.4.0"
   gem "uglifier", "~> 4.1.12"
   gem 'jekyll-seo-tag', '~> 2.5.0'
 end
