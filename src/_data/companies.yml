@@ -464,3 +464,9 @@ Quanterall:
   github: https://github.com/emqx
   location: Global
   description: EMQ is an open-source IoT data infrastructure software provider, delivering the world's leading cloud-native MQTT-based IoT messaging platform and streaming database, providing a one-stop cloud-native solution for real-time IoT data connection, movement, processing and analytics, from edge to cloud to multicloud.
+
+"Contextual":
+  industry: Product Adoption
+  url: https://contextu.al/
+  github: https://github.com/contextu-al/
+  description: Guide, Retain, Grow without writing Code. Product adoption is simpler and faster with Contextual.
