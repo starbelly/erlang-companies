@@ -304,11 +304,11 @@ Leapsight:
   location: Bordeaux, France
   description: We are building the factory of the future! We use Erlang to deploy industry grade AI solutions.
 
-"simplabs GmbH":
+"Mainmatter":
   industry: Consultancy
-  url: https://simplabs.com
-  github: https://github.com/simplabs
-  blog: https://simplabs.com/blog/
+  url: https://mainmatter.com
+  github: https://github.com/mainmatter
+  blog: https://mainmatter.com/blog/
   location: Munich, Germany
   description: We build ambitious web and mobile solutions for clients across the world, mostly with Elixir/Phoenix and Ember.js. Our open source air-quality PWA Breethe (https://breethe.app) is backed by Elixir.
 
